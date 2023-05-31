@@ -118,4 +118,9 @@
         opacity: 1;
         font-weight: 800;
         text-decoration: none;
+      
+}
+
+.signup {
+        margin-bottom: 8rem;
 }
