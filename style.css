@@ -100,7 +100,7 @@
         color: white;
         background-color: blue;
         border: 1px solid blue;
-        margin-top: 2rem;
+        margin-top: 2.5rem;
         border-radius: 10px;
 }
 
@@ -110,7 +110,7 @@
         margin:0 auto;
         justify-content: center;
         margin-top: 1.5rem;
-        font-size: 0.3rem;
+        font-size: 1rem;
         opacity: 0.5;
         font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
         margin-bottom: 8rem;
